@@ -4,9 +4,6 @@ sr-interval: 58
 sr-ease: 250
 tags:
   - ✅
-sr-due: 2024-09-19
-sr-interval: 144
-sr-ease: 250
 ---
 ⬅️ [[Exercise]]
 
