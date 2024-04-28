@@ -1,12 +1,9 @@
 ---
-sr-due: 2024-04-25
-sr-interval: 178
-sr-ease: 250
-tags:
-  - ✅
 sr-due: 2025-07-14
 sr-interval: 445
 sr-ease: 250
+tags:
+  - ✅
 ---
 ⬅️ [[Cloud Computing]]
 
