@@ -4,9 +4,6 @@ sr-interval: 3
 sr-ease: 250
 tags:
   - ✅
-sr-due: 2024-05-06
-sr-interval: 8
-sr-ease: 250
 ---
 ⬅️ [[Travel and Living Abroad]]
 🔗 from [WITI](https://whyisthisinteresting.substack.com/p/the-atmospherics-edition)
