@@ -4,9 +4,6 @@ sr-interval: 172
 sr-ease: 250
 tags:
   - ✅
-sr-due: 2025-07-03
-sr-interval: 431
-sr-ease: 250
 ---
 
 ⬅️ [[Everything programming]]
