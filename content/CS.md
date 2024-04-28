@@ -1,7 +1,7 @@
 ---
 tags:
-  - 🧭
   - ✅
+  - 🧭
 ---
 ⬅️ [[Everything programming]]
 ## OS
