@@ -5,7 +5,6 @@ sr-ease: 297
 tags:
   - ✅
 ---
-
 ⬅️ [[Everything programming]]
 
 - [[Machine Learning and AI]]

@@ -20,7 +20,6 @@ Fallacies of distributed systems are a set of assertions made by L Peter Deutsch
 ![[Pasted image 20230718082338.png]]
 
 ## 1. The Network is reliable
-
 - To build a reliable system, you have to understand and come to terms with the fact that any particular communication can fail; Therefore, we need to provide a way for systems to deal with this potential miscommunication (e.g. store and forward with RabbitMQ and ActiveMQ)
 
 ## 2. Latency is zero

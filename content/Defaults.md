@@ -9,6 +9,7 @@ sr-ease: 270
 ⬅️ [[Execute program MySQL]]
 
 ## Defaults
+
 ```sql
   CREATE TABLE users (
     name TEXT,

@@ -6,6 +6,7 @@ sr-interval: 10
 sr-ease: 250
 ---
 ⬅️ [[Travel and Living Abroad]]
+
 🔗 from [WITI](https://whyisthisinteresting.substack.com/p/the-atmospherics-edition)
 
 There is an art to ‘collecting’ on a faraway place, something that modern-day intelligence officers call “atmospherics.” Naturally, there’s a mnemonic [PDF]: PMESII-PT, used to analyze atmospherics across eight dimensions.

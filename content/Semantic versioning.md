@@ -6,6 +6,7 @@ sr-interval: 447
 sr-ease: 250
 ---
 ⬅️ [[Missing Semester 08]]
+
 ## Semantic versioning
 With semantic versioning, every version number is of the form: **major.minor.patch**:
 

@@ -20,6 +20,7 @@ tags:
 - [[Bash]]
 
 💡 Learning different programming languages is one of the best way to improve your programming skills.
+
 ## Resources
 - 📕 Seven Languages in Seven Weeks 
 - [[Programming Courses to take]]

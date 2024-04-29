@@ -30,6 +30,7 @@ npm ls -g
 ├── npm@9.7.1
 └── tldr@3.3.8
 ```
+
 ## Brew
 `brew list` and `brew list --cask`
 

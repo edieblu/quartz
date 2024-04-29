@@ -6,7 +6,6 @@ tags:
   - ✅
   - 🧭
 ---
-
 ⬅️ [[Everything programming]]
 
 - [[Infrastructure as Code]]
@@ -17,6 +16,7 @@ tags:
 - [[What are Microservices?]]
 - [[What is a CDN?]]
 - [[Virtualization Explained]]
+
 ## Resources
 - [Learn to cloud](https://learntocloud.guide/#/)
 - Cloudacademy
