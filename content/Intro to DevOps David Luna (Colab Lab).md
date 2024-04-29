@@ -1,9 +1,9 @@
 ---
-sr-due: 2024-04-27
-sr-interval: 201
-sr-ease: 250
 tags:
   - ✅
+sr-due: 2025-09-17
+sr-interval: 506
+sr-ease: 250
 ---
 ⬅️ [[DevOps]]
 

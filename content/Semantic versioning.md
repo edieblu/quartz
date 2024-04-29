@@ -1,9 +1,9 @@
 ---
-sr-due: 2024-04-27
-sr-interval: 180
-sr-ease: 250
 tags:
   - ✅
+sr-due: 2025-07-19
+sr-interval: 447
+sr-ease: 250
 ---
 ⬅️ [[Missing Semester 08]]
 ## Semantic versioning

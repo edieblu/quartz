@@ -1,9 +1,9 @@
 ---
-sr-due: 2024-04-28
-sr-interval: 454
-sr-ease: 270
 tags:
   - ✅
+sr-due: 2027-09-07
+sr-interval: 1226
+sr-ease: 270
 ---
 
 ⬅️ [[Execute program MySQL]]
