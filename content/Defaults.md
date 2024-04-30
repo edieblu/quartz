@@ -1,4 +1,5 @@
 ---
+published: true
 tags:
   - ✅
 sr-due: 2027-09-07

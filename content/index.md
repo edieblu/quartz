@@ -1,4 +1,5 @@
 ---
+published: true
 title: Home
 draft: false
 tags:

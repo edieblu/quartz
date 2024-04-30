@@ -1,10 +1,11 @@
 ---
+published: true
+tags:
+  - ✅
 sr-due: 2024-11-28
 sr-interval: 281
 sr-ease: 275
 title: Data
-tags:
-  - ✅
 ---
 ⬅️ [[Everything programming]]
 ⬅️ [[SQL]]

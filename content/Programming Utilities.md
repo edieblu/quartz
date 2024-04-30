@@ -1,9 +1,10 @@
 ---
+published: true
+tags:
+  - ✅
 sr-due: 2024-12-23
 sr-interval: 296
 sr-ease: 279
-tags:
-  - ✅
 title: Programming Utilities
 draft:
 ---

@@ -1,12 +1,13 @@
 ---
+published: true
+tags:
+  - ✅
+  - 🧭
 sr-due: 2024-07-19
 sr-interval: 203
 sr-ease: 273
 draft: false
 title: " Everything programming"
-tags:
-  - ✅
-  - 🧭
 ---
 ⬅️ [[index|Home]]
 

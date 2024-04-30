@@ -1,4 +1,5 @@
 ---
+published: true
 tags:
   - ✅
 sr-due: 2025-09-17

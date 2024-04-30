@@ -1,12 +1,12 @@
 ---
+published: true
+tags:
+  - ✅
+  - 🧭
 sr-due: 2024-09-01
 sr-interval: 213
 sr-ease: 257
 title: Programming Languages
-draft: false
-tags:
-  - ✅
-  - 🧭
 ---
 ⬅️ [[Everything programming]]
 

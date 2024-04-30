@@ -4,6 +4,7 @@ sr-interval: 247
 sr-ease: 297
 tags:
   - ✅
+published: true
 ---
 ⬅️ [[Everything programming]]
 

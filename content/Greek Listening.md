@@ -1,5 +1,7 @@
 ---
-tags: ['✅']
+published: true
+tags:
+  - ✅
 sr-due: 2025-07-21
 sr-interval: 449
 sr-ease: 250

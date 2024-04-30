@@ -1,9 +1,10 @@
 ---
+published: true
+tags:
+  - ✅
 sr-due: 2025-04-27
 sr-interval: 405
 sr-ease: 250
-tags:
-  - ✅
 ---
 ⬅️ [[Everything programming]]
 ⬅️ [[Missing Semester 08]]

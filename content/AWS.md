@@ -1,9 +1,10 @@
 ---
+published: true
+tags:
+  - ✅
 sr-due: 2025-07-14
 sr-interval: 445
 sr-ease: 250
-tags:
-  - ✅
 ---
 ⬅️ [[Cloud Computing]]
 
