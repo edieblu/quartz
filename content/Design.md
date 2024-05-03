@@ -4,8 +4,8 @@ title: Design
 tags:
   - ✅
   - 🧭
-sr-due: 2024-05-03
-sr-interval: 3
+sr-due: 2024-05-11
+sr-interval: 8
 sr-ease: 259
 ---
 ⬅️ [[Everything programming]]
