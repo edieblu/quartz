@@ -8,14 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Notes on Life, Universe, and Everything",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'posthog', apiKey: 'phc_FSYP7uxHlZCn9unKd2xidxAuPfQRqKwrnQyfTWM8NZ1', host: 'https://us.i.posthog.com' },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "evadee.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

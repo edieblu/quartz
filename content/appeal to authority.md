@@ -1,7 +1,4 @@
 ---
-sr-due: 2024-05-03
-sr-interval: 3
-sr-ease: 259
 tags:
   - ✅
 published: true
