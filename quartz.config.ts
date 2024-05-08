@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Notes on Life, Universe, and Everything",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'posthog', apiKey: 'phc_bFL7HLDQyvbxF1sDARWWE82ARBegWuVYNVDUiq74TSS', host: 'https://eu.i.posthog.com' },
+    analytics: { provider: 'posthog', apiKey: 'phc_bFL7HLDQyvbxF1sDARWWE82ARBegWuVYNVDUiq74TSS', host: 'https://eu.posthog.com' },
     locale: "en-US",
     baseUrl: "evadee.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
