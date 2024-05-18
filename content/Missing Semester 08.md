@@ -1,0 +1,19 @@
+---
+sr-due: 2024-05-21
+sr-interval: 4
+sr-ease: 273
+tags:
+  - ✅
+  - 🧭
+published: true
+---
+⬅️  [[Missing Semester of CS]]
+
+- 📹 [YouTube Link](https://www.youtube.com/watch?v=_Ms1Z4xfqv4&feature=emb_logo)
+- ✏️ [Official Notes](https://missing.csail.mit.edu/2020/metaprogramming/)
+
+- [[Build systems]]
+- [[Semantic versioning]]
+- [[Lock files]]
+- [[Continuous integration (CI)]]
+- [[Testing]]

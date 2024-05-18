@@ -46,6 +46,8 @@ title: " Everything programming"
 
 ## Programming and People
 - [[Managing Up]]
+- [[Leadership]]
+- [[Measuring Productivity]]
 
 ## Good resources to browse anytime
 - [[Architecture Notes]]
