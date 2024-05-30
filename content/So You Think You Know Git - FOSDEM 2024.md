@@ -1,10 +1,10 @@
 ---
-sr-due: 2024-05-18
-sr-interval: 3
-sr-ease: 250
 tags:
   - ✅
 published: true
+sr-due: 2024-06-16
+sr-interval: 20
+sr-ease: 250
 ---
 ⬅️ [[Git]]
 
@@ -21,7 +21,6 @@ stash --all will stash both tracked/untracked files
 ## Oldies but goodies
 - `git config --global rerere.enabled true`
 teach `git` how you resolved a merge conflict last time and it will do it automatically the next time
-
 ## Some new stuff you may not have noticed
 - `git config --global alias.fpush push --force-with-lease`
 it will check that what you last pushed is still what's on the server before it will force the new branch update. If someone has updated the remote ref (pushed in the meantime), then push now fails with a "stale info" error.

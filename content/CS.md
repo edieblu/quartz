@@ -3,15 +3,13 @@ published: true
 tags:
   - ✅
   - 🧭
-sr-due: 2024-05-20
-sr-interval: 3
+sr-due: 2024-06-15
+sr-interval: 19
 sr-ease: 266
 ---
 ⬅️ [[Everything programming]]
-
 ## OS
 - [[Putting the “You” in CPU]]
-- 
 ## Courses
 - [[CS50]]
 - [[Missing Semester of CS]]

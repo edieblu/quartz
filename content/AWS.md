@@ -14,6 +14,7 @@ sr-ease: 250
 - [[AWS Certifications]]
 - [[AWS Lambda]]
 - [[Localstack]]
+- [[Load balancers]]
 
 ## Topics
 ### IAM

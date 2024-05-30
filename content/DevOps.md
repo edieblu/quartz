@@ -3,8 +3,8 @@ published: true
 tags:
   - ✅
   - 🧭
-sr-due: 2024-05-25
-sr-interval: 8
+sr-due: 2024-06-23
+sr-interval: 27
 sr-ease: 265
 ---
 ⬅️ [[Everything programming]]

@@ -4,8 +4,8 @@ title: Databases
 tags:
   - ✅
   - 🧭
-sr-due: 2024-05-21
-sr-interval: 7
+sr-due: 2024-06-07
+sr-interval: 17
 sr-ease: 264
 ---
 ⬅️ [[Everything programming]]

@@ -6,6 +6,9 @@ tags:
   - ✅
   - 🧭
 published: true
+sr-due: 2024-06-03
+sr-interval: 13
+sr-ease: 273
 ---
 ⬅️  [[Missing Semester of CS]]
 

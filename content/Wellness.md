@@ -7,6 +7,7 @@ sr-interval: 88
 sr-ease: 250
 ---
 ⬅️ [[Meta Programming]]
+⬅️ [[Pointer]]
 
 https://www.pointer.io/tags/wellness
 

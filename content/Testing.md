@@ -9,6 +9,7 @@ sr-ease: 250
 ⬅️ [[Everything programming]]
 ⬅️ [[Meta Programming]]
 ⬅️ [[Missing Semester 08]]
+⬅️ [[Pointer]]
 
 ## Testing
 - **Test suite**: all of the tests in the program

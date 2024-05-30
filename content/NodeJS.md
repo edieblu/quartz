@@ -3,8 +3,8 @@ tags:
   - ✅
   - 🧭
 published: true
-sr-due: 2024-05-29
-sr-interval: 238
+sr-due: 2026-04-12
+sr-interval: 683
 sr-ease: 287
 ---
 

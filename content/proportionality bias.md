@@ -2,11 +2,11 @@
 tags:
   - ✅
 published: true
-sr-due: 2024-05-29
-sr-interval: 29
+sr-due: 2024-08-12
+sr-interval: 75
 sr-ease: 254
 ---
-⬅️ Critical Thinking
+⬅️ [[Critical Thinking]]
 
 - The proportionality bias is a tendency to believe that causes are proportional to effects in magnitude. Extreme events with momentous consequences have extreme, momentous causes. Mundane events have mundane causes.
 - Example: conspiracy theory behind the killing of JFK
