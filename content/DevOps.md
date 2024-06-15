@@ -20,3 +20,4 @@ sr-ease: 265
 
 ## Resources
 - [CircleCI blog](https://circleci.com/blog/)
+- [Sad Servers](https://sadservers.com/)

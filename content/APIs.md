@@ -1,7 +1,7 @@
 ---
 published: true
-sr-due: 2024-06-08
-sr-interval: 163
+sr-due: 2025-08-21
+sr-interval: 432
 sr-ease: 259
 tags:
   - ✅

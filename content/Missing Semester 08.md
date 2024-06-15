@@ -3,8 +3,8 @@ tags:
   - ✅
   - 🧭
 published: true
-sr-due: 2024-06-03
-sr-interval: 13
+sr-due: 2024-08-06
+sr-interval: 52
 sr-ease: 273
 ---
 ⬅️  [[Missing Semester of CS]]
@@ -17,3 +17,4 @@ sr-ease: 273
 - [[Lock files]]
 - [[Continuous integration (CI)]]
 - [[Testing]]
+

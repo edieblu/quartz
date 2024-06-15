@@ -2,9 +2,9 @@
 published: true
 tags:
   - ✅
-sr-due: 2024-06-09
-sr-interval: 26
-sr-ease: 256
+sr-due: 2024-10-06
+sr-interval: 113
+sr-ease: 276
 ---
 
 ⬅️ [[Math]]

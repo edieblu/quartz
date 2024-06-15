@@ -2,13 +2,11 @@
 tags:
   - ✅
 published: true
-sr-due: 2024-05-29
-sr-interval: 9
-sr-ease: 258
+sr-due: 2024-07-14
+sr-interval: 43
+sr-ease: 278
 ---
-
 ⬅️ [[NodeJS]]
-#✅ 
 
 ## Resources
 - [FrontEndMasters Course](https://frontendmasters.com/courses/networking-streams/)
