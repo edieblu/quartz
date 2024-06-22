@@ -2,12 +2,11 @@
 tags:
   - ✅
 published: true
-sr-due: 2024-06-16
-sr-interval: 20
+sr-due: 2024-08-16
+sr-interval: 58
 sr-ease: 250
 ---
 ⬅️ [[Git]]
-
 🔗 YT from [here](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
 - Scott Chacon: co-found of GitHub, wrote Pro Git book

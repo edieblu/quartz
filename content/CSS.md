@@ -25,7 +25,7 @@ published: true
 - [[Things about CSS that I keep googling]]
 
 ## Tips
-- [[How to avoid scroll chaining]]
+- [[how to avoid scroll chaining]]
 
 
 ## Favorite CSS Resources

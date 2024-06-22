@@ -6,7 +6,7 @@ sr-due: 2025-02-24
 sr-interval: 301
 sr-ease: 251
 ---
-⬅️ [[Artists]]
+⬅️ [[Artists (Women)]]
 
 - November 18, 1948 – September 8, 1985
 - a Cuban-American performance artist, sculptor, painter, and video artist who is best known for her "earth-body" artwork.

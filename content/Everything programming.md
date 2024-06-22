@@ -13,6 +13,7 @@ title: " Everything programming"
 
 ## Topics 
 - [[Programming Languages]]
+- [[Bash]]
 - [[Programming Utilities]]
 - [[Design]]
 - [[Data]]

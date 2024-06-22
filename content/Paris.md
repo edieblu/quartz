@@ -3,6 +3,9 @@ tags:
   - ✅
   - 🧭
 published: true
+sr-due: 2024-06-24
+sr-interval: 3
+sr-ease: 250
 ---
 
 ⬅️ [[Travel and Living Abroad]]
