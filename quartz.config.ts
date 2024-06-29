@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "👩‍💻 notes on etc etc",
+    pageTitle: "👩‍💻 notes on etc etc.",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: 'posthog', apiKey: 'phc_bFL7HLDQyvbxF1sDARWWE82ARBegWuVYNVDUiq74TSS', host: 'https://eu.posthog.com' },
