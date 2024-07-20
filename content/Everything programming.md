@@ -14,6 +14,7 @@ title: " Everything programming"
 ## Topics 
 - [[Programming Languages]]
 - [[Bash]]
+- [[Linux]]
 - [[Programming Utilities]]
 - [[Design]]
 - [[Data]]
@@ -37,6 +38,7 @@ title: " Everything programming"
 - [[Monitoring]]
 - [[AI]]
 - [[System Design]]
+- [[SelfHosting]]
 
 ## Misc
 - [[Programming Books]]
@@ -45,14 +47,11 @@ title: " Everything programming"
 - [[New machine setup]]
 - [[Computer Tools]]
 
-## Programming and People
-- [[Managing Up]]
-- [[Leadership]]
-- [[Measuring Productivity]]
-
+## Lists and Notes
+- [professional-programming](https://github.com/charlax/professional-programming)
 ## Good resources to browse anytime
 - [[Architecture Notes]]
 - [Learn X in Y](https://learnxinyminutes.com/)
 - Codeacademy
-- FEM
+- FEM (Frontend Masters)
 

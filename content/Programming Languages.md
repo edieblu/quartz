@@ -13,6 +13,7 @@ title: Programming Languages
 - [[HTML]]
 - [[CSS]]
 - [[JavaScript]]
+- [[TypeScript]]
 - [[NodeJS]]
 - [[Python]]
 - [[Go]]

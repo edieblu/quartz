@@ -2,8 +2,8 @@
 published: true
 tags:
   - ✅
-sr-due: 2024-07-16
-sr-interval: 79
+sr-due: 2025-02-06
+sr-interval: 205
 sr-ease: 259
 ---
 ⬅️ [[Critical Thinking]]

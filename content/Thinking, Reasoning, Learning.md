@@ -22,6 +22,7 @@ published:
 - [[Effective Altruism]]
 - [[Deliberate Practice]]
 - [The Metaphor Edition](https://whyisthisinteresting.substack.com/p/the-metaphor-edition)- from WITI
+- [A 12-Month Immersive Course in Humanities](https://www.honest-broker.com/p/a-12-month-immersive-course-in-humanities?utm_source=post-email-title&publication_id=296132&post_id=146315791&utm_campaign=email-post-title&isFreemail=true&r=2kkpo&triedRedirect=true&utm_medium=email)
 
 ## Links
 - [Crash course in learning theory](https://headrush.typepad.com/creating_passionate_users/2006/01/crash_course_in.html)

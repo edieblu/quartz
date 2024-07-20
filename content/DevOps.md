@@ -3,8 +3,8 @@ published: true
 tags:
   - ✅
   - 🧭
-sr-due: 2024-06-23
-sr-interval: 27
+sr-due: 2024-09-03
+sr-interval: 72
 sr-ease: 265
 ---
 ⬅️ [[Everything programming]]
@@ -17,6 +17,7 @@ sr-ease: 265
 - [[Infrastructure as Code FFC]]
 - [[Top 5 Most-Used Deployment Strategies]]
 - [[Continuous integration (CI)]]
+- [[TerraForm]]
 
 ## Resources
 - [CircleCI blog](https://circleci.com/blog/)

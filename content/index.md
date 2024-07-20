@@ -11,6 +11,7 @@ Notes and ideas ranging from programming, language learning, music, board games,
 Written in [Obsidian](https://obsidian.md/). Published with [Quartz](https://quartz.jzhao.xyz/).
 
  - [[Everything programming]]
+ - [[Everyday productivity]]
 
 ## Emoji legend
 - ✅ done and ready to be reviewed

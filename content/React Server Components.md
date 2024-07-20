@@ -2,8 +2,8 @@
 published: true
 tags:
   - ✅
-sr-due: 2024-07-03
-sr-interval: 31
+sr-due: 2024-09-26
+sr-interval: 85
 sr-ease: 275
 ---
 ⬅️ [[NextJS]]
@@ -31,9 +31,11 @@ sr-ease: 275
 - consider leveraging RSCs for server-side rendering and data fetching, while relying on Client Components for locally interactive features and user experiences.
 - In the Next.js App Router, all fetched data is now static by default, rendered at build time.
 
+## Caching
+- Next.js App Router has an improved caching story, with a caching mechanism injected into the global fetch method. 
+- This modified `fetch` method allows you to cache responses and provide options such as stale/revalidation period and cache "tags" to use for cache revalidation.
 ## Resources
 - https://nextjs.org/docs/app/building-your-application/rendering
 - https://vercel.com/templates/next.js/app-directory
 - https://www.mux.com/blog/what-are-react-server-components
 - https://dagster.io/blog/dbt-docs-on-react
-- https://formidable.dev/blog/2023/powering-our-website-s-evolution-next-js-app-router-and-sanity-cms-in-action/

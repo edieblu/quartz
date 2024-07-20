@@ -3,11 +3,10 @@ tags:
   - ✅
   - 🧭
 published: true
-sr-due: 2024-06-24
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-07-30
+sr-interval: 28
+sr-ease: 270
 ---
-
 ⬅️ [[Travel and Living Abroad]]
 ⬅️ [[France]]
 
@@ -20,3 +19,5 @@ sr-ease: 250
 - Révolte à la Lock (Lock Academy)
 - Pirate's secret (Hint Hunt Academy)
 
+## Resources
+- [Atlas Obscura](https://www.atlasobscura.com/things-to-do/paris-france/places)

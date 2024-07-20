@@ -10,3 +10,6 @@ sr-ease: 257
 ⬅️ [[Programming Languages]]
 
 - [[HTML Boilerplate]]
+
+## Practical
+- [[Why does HTML think “chucknorris” is a color?]]

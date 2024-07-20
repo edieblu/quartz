@@ -23,6 +23,8 @@ sr-ease: 307
 - [[Missing Semester 05]]
 - [[Popular Linux Commands FCC]]
 
+## Practical
+- [[How do I get the directory where a Bash script is located from within the script itself?]]
 ## Resources
 - [ ] [CLI-exercises](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
 - [ ] [Sad servers](https://sadservers.com/scenarios)

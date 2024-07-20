@@ -10,10 +10,15 @@ sr-ease: 266
 ⬅️ [[Everything programming]]
 ## OS
 - [[Putting the “You” in CPU]]
+
+## Algorithms
+- [[Data Structures and Algorithms in JavaScript]]
 ## Courses
 - [[CS50]]
 - [[Missing Semester of CS]]
 
+## Practical
+- [[What and where are the stack and heap?]]
 ## Other
 - [[10 CS papers everyone should read]]
 - [[The data literacy test]]

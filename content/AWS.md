@@ -12,7 +12,7 @@ sr-ease: 250
 - [[FEM Introducing Serverless with AWS]]
 - [[Cloud Playground]]
 - [[AWS Certifications]]
-- [[AWS Lambda]]
+- [[Aws Lambda]]
 - [[Localstack]]
 - [[Load balancers]]
 
