@@ -8,13 +8,10 @@ sr-interval: 203
 sr-ease: 273
 draft: false
 title: " Everything programming"
-sr-due: 2026-01-30
-sr-interval: 559
-sr-ease: 273
 ---
 ⬅️ [[index|Home]]
 
-## Topics 
+## Topics
 - [[Programming Languages]]
 - [[Bash]]
 - [[Linux]]
@@ -57,4 +54,3 @@ sr-ease: 273
 - [Learn X in Y](https://learnxinyminutes.com/)
 - Codeacademy
 - FEM (Frontend Masters)
-
