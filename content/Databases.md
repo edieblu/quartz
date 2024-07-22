@@ -16,6 +16,9 @@ sr-ease: 264
 - [[Redis]]
 - [[Memcached]]
 
+## Practical
+- [[How does database indexing work?]]
+
 ## Miscelanious
 - [[What is database sharding?]]
 - [[Relational databases explained]]

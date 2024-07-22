@@ -19,6 +19,9 @@ sr-ease: 266
 
 ## Practical
 - [[What and where are the stack and heap?]]
+- [[What is a plain English explanation of "Big O" notation?]]
+- [[What does O(log n) mean exactly?]]
+
 ## Other
 - [[10 CS papers everyone should read]]
 - [[The data literacy test]]

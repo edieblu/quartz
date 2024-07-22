@@ -25,6 +25,12 @@ sr-ease: 307
 
 ## Practical
 - [[How do I get the directory where a Bash script is located from within the script itself?]]
+- [[How do I check if a directory exists or not in a Bash shell script?]]
+- [[What does " 2>&1 " mean?]]
+- [[Find (and kill) process locking port 3000 on Mac]]
+- [[How do I parse command line arguments in Bash?]]
+- [[Make a Bash alias that takes a parameter?]]
+
 ## Resources
 - [ ] [CLI-exercises](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
 - [ ] [Sad servers](https://sadservers.com/scenarios)

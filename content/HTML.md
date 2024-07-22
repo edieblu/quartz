@@ -12,4 +12,6 @@ sr-ease: 257
 - [[HTML Boilerplate]]
 
 ## Practical
+- [[<button> vs. <input type="button"> -- which to use?]]
+## Practical
 - [[Why does HTML think “chucknorris” is a color?]]

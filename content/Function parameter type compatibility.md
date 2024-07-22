@@ -1,12 +1,12 @@
 ---
+aliases:
+  - contravariance
 tags:
   - ✅
 published: true
-sr-due: 2024-07-03
-sr-interval: 379
+sr-due: 2027-03-20
+sr-interval: 972
 sr-ease: 250
-aliases:
-  - contravariance
 ---
 
 ⬅️ [[Execute Program Advanced TypeScript]]
