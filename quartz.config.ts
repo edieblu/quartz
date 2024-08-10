@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notes on Life, Universe, and Everything",
+    pageTitle: "👩‍💻 notes on etc etc.",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: 'posthog', apiKey: 'phc_bFL7HLDQyvbxF1sDARWWE82ARBegWuVYNVDUiq74TSS', host: 'https://eu.posthog.com' },
@@ -20,9 +20,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Rubik",
+        body: "Jost",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -36,13 +36,16 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          //light: "#161618",
+          light: "#111827",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          //secondary: "#7b97aa",
+          secondary: "#BD93F9",
+          //tertiary: "#84a59d",
+          tertiary: "#F1FA8C",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
