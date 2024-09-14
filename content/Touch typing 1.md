@@ -1,0 +1,1 @@
+/Users/evad/Library/CloudStorage/Dropbox/obsidian/3. NOTES/PUBLISHED/Touch typing 1.md

@@ -1,0 +1,1 @@
+/Users/evad/Library/CloudStorage/Dropbox/obsidian/3. NOTES/PUBLISHED/What does "use strict" do in JavaScript, and what is the reasoning behind it?.md

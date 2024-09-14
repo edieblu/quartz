@@ -1,17 +1,1 @@
----
-tags:
-  - ✅
-  - 🧭
-published: true
-sr-due: 2024-08-26
-sr-interval: 46
-sr-ease: 296
----
-
-⬅️ [[JavaScript]]
-
-- [[Athena Crisis]]
-- [[Zustand]]
-- [[AnkiLanguage]]
-- [[Termino]]
-- [[Humanize Duration]]
+/Users/evad/Library/CloudStorage/Dropbox/obsidian/3. NOTES/PUBLISHED/Reading JavaScript.md

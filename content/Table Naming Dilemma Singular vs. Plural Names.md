@@ -1,0 +1,1 @@
+/Users/evad/Library/CloudStorage/Dropbox/obsidian/3. NOTES/PUBLISHED/Table Naming Dilemma Singular vs. Plural Names.md

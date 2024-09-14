@@ -1,12 +1,1 @@
----
-tags:
-  - ✅
-published: true
-sr-due: 2025-11-17
-sr-interval: 518
-sr-ease: 250
----
-⬅️ [[Execute Program JavaScript Arrays]]
-
-## reverse
-- `reverse` changes the array it's called on, like `sort` does.
+/Users/evad/Library/CloudStorage/Dropbox/obsidian/3. NOTES/PUBLISHED/reverse.md
